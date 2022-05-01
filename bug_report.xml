@@ -1,1 +1,12 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <id>XMLN001</id>
+    <head>XML bug report</head>
+    <steps>step_1,step_2,step_3</steps>
+    <fact>actually the result</fact>
+    <expect>expected result</expect>
+    <environment>OS,Browser,hardware</environment>
+    <severity>minor</severity>
+    <priority>low</priority>
+    <notes>text</notes>
+</root>
